@@ -6,3 +6,4 @@ Edit READ and test
 Again
 Hi
 New checkin to remote git
+Finished for 1st release
