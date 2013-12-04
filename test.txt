@@ -4,4 +4,5 @@ Test3
 
 Edit TEST and read
 Finished for 1st release
-This is a Bug fix for r1 release in master branch
+Bug fix commit done just early on r2_test1 branch was unwanted. Deleted it from this file. 
+Now making change for r2_test1 by Team1
