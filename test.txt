@@ -7,3 +7,4 @@ Finished for 1st release
 Bug fix commit done just early on r2_test1 branch was unwanted. Deleted it from this file. 
 Now making change for r2_test1 by Team1
 This is a bug fix on Release 1 which is on production now
+Team1 finished Release2 development on r2_test1 branch
