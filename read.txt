@@ -8,3 +8,4 @@ Hi
 New checkin to remote git
 Finished for 1st release
 Editing the file read.txt at r2_test1 branch by Team2
+Team2 finished release2 development on r2_read1 branch
